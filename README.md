@@ -114,8 +114,3 @@ copilot-studio-azure-sql-knowledge/
 - **SQL Server Management Studio (SSMS)**（建表、建外部用户）
 
 ---
-
-## 七、致谢与说明
-
-- 原始教程与 SQL 脚本作者：**Matthew Devaney** — [博客原文](https://www.matthewdevaney.com/copilot-studio-connect-an-azure-sql-database-as-knowledge/)、[视频](https://youtu.be/ao640wcA1iQ)、[原始仓库](https://github.com/matthewdevaney/Copilot-Studio-Tutorials)。
-- 本仓库为**个人学习用中文重制版**，`sql/` 下脚本来自原作者仓库，版权归原作者所有，仅用于学习与演示。示例数据中的姓名、电话、邮箱均为虚构测试数据。
